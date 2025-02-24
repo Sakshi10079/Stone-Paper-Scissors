@@ -1,23 +1,30 @@
-# Stone Paper Scissors 🎮
+# 🪨📜✂️ Stone Paper Scissors Game
 
-A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and see who wins!
+A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and test your luck! 🎮✨
 
-## 🚀 Demo
-[Live Demo](#) (Add your live link if hosted)
+## 🚀 Live Demo
+🔗 [Play Now](https://sakshi10079.github.io/Stone-Paper-Scissors/)
 
 ## 📌 Features
-- Interactive UI with animations
-- Play against the computer
-- Randomized computer moves for fair gameplay
-- Score tracking system
-- Responsive design
+- 🎮 Play against a computer-generated opponent  
+- 🔄 Randomized computer choices for fair gameplay  
+- 🖌️ Simple and clean UI design  
+- 📱 Responsive design for mobile and desktop  
 
-## 🛠 Tech Stack
-- **HTML** - Structure
-- **CSS** - Styling
-- **JavaScript** - Game logic
+## 🛠️ Technologies Used
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** – Game logic  
 
-## 📥 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/stone-paper-scissors.git
+## 📸 Screenshots
+![Game Preview](images/game-preview.png) *(Replace with actual screenshot if available)*  
+
+## 🎯 How to Play?
+1. Select **Stone 🪨**, **Paper 📜**, or **Scissors ✂️**  
+2. The computer randomly selects its choice  
+3. Results are displayed instantly: **Win, Lose, or Draw**  
+
+## 🔧 Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Sakshi10079/Stone-Paper-Scissors.git
