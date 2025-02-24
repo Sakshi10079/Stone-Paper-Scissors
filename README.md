@@ -16,6 +16,9 @@ A simple **Stone Paper Scissors** game built using **HTML, CSS, and JavaScript**
 - **CSS** – Styling  
 - **JavaScript** – Game logic  
 
+## 📸 Demo Screenshot  
+![Screenshot (4)](https://github.com/user-attachments/assets/dc07ce5c-8af3-483f-a385-8de7739b8aff)
+
 ## 🎯 How to Play?
 1. Select **Stone 🪨**, **Paper 📜**, or **Scissors ✂️**  
 2. The computer randomly selects its choice  
